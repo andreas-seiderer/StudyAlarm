@@ -30,8 +30,9 @@ Next to other questions following standardized questionnaires are included (they
 
 
 ## Screenshots
-![Start screen](/images/Screen_Start.png | width=100)
-![Initial questionnaire screen](/images/Screen_Initial.png | width=100)
-![Daily questionnaire screen](/images/Screen_Daily.png | width=100)
-![Momentary questionnaire screen](/images/Screen_Momentary.png | width=100)
-![Settings screen](/images/Screen_Settings.png | width=100)
+<img src="/images/Screen_Start.png" width="300">
+<img src="/images/Screen_Initial.png" width="300">
+<img src="/images/Screen_Daily.png" width="300">
+<img src="/images/Screen_Momentary.png" width="300">
+<img src="/images/Screen_Settings.png" width="300">
+
