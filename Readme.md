@@ -16,7 +16,7 @@ Next to other questions following standardized questionnaires are included (they
 * SQS: single-item sleep quality scale
 	* English: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6223557/
 
-## Features:
+## Features
 * useable starting from Android 8.1 with low system requirements (tested down to Nexus 4 (Lineage))
 * fully German and English interface / questions
 * indicators for filled out initial and daily questionnaires
@@ -27,3 +27,11 @@ Next to other questions following standardized questionnaires are included (they
 	* data is saved in local storage only
 	* minimal Android permissions: just one to allow alarms to be set
 	* the user can always export and delete all collected data
+
+
+## Screenshots
+![Start screen](/images/Screen_Start.png)
+![Initial questionnaire screen](/images/Screen_Initial.png)
+![Daily questionnaire screen](/images/Screen_Daily.png)
+![Momentary questionnaire screen](/images/Screen_Momentary.png)
+![Settings screen](/images/Screen_Settings.png)
